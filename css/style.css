@@ -1,0 +1,11 @@
+#start-card{
+    margin-top: 85px;
+}
+
+select option:hover{
+    background-color:#ffc107;
+}
+input{
+    outline-style: none;
+    outline: none;
+}
