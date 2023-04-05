@@ -99,8 +99,8 @@
                     </ul>
                 </div>
                 <div class="float-right">
-                    <a href="public/login.php" class="btn btn-warning" role="button">Se connecter</a>
-                    <a href="public/register.php" class="btn btn-secondary" role="button">S'inscrire</a>
+                    <a href="login_files/login.php" class="btn btn-warning" role="button">Se connecter</a>
+                    <a href="login_files/register.php" class="btn btn-secondary" role="button">S'inscrire</a>
                 </div>
             </div>
         </div>
